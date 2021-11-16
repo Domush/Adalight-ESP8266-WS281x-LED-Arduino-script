@@ -11,8 +11,8 @@
 - Configurable baud rates (higher rate allows faster refresh rate and more LEDs)
 
 - Has an optional lightshow mode (Display lightshow when idle)
- - Multiple lightshow options: rainbow, sweep, confetti, pulse, snake, random
- - Configurable lightshow speed: 'S' = slow, 'N' = normal, 'F' = fast, 'T' = trippy
+  - Multiple lightshow options: rainbow, sweep, confetti, pulse, snake, random
+  - Configurable lightshow speed: 'S' = slow, 'N' = normal, 'F' = fast, 'T' = trippy
 
 ## Example: https://www.youtube.com/watch?v=VH-h9wYpGlQ
 
